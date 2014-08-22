@@ -1,0 +1,24 @@
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.Properties.Resources.resources
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.csproj.GenerateResource.Cache
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\WMSwithRFID.exe.config
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\WMSwithRFID.exe
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\WMSwithRFID.pdb
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\EntityFramework.dll
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\EntityFramework.xml
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.csprojResolveAssemblyReference.cache
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.AddProductTypeForm.resources
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.exe
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.pdb
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.AddProductForm.resources
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.AddUserForm.resources
+C:\Users\PonPon\Documents\Visual Studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.Add_Forms.AddWarehouseForm.resources
+C:\Users\PonPon\documents\visual studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.AddManufacturerForm.resources
+C:\Users\PonPon\documents\visual studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.UpdateDeleteForms.UserUpdateDeleteForm.resources
+C:\Users\PonPon\documents\visual studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.Add_Forms.Home.resources
+C:\Users\PonPon\documents\visual studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.Reader.resources
+C:\Users\PonPon\documents\visual studio 2010\Projects\WMSwithRFID\WMSwithRFID\obj\x86\Debug\WMSwithRFID.AddProductionLineForm.resources
+C:\Users\Michael Renker\Documents\Visual Studio 2010\Projects\intense-rep-master\WMSwithRFID\bin\Debug\WMSwithRFID.exe.config
+C:\Users\Michael Renker\Documents\Visual Studio 2010\Projects\intense-rep-master\WMSwithRFID\obj\x86\Debug\WMSwithRFID.exe
+C:\Users\Michael Renker\Documents\Visual Studio 2010\Projects\intense-rep-master\WMSwithRFID\obj\x86\Debug\WMSwithRFID.pdb
